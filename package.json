@@ -1,0 +1,10 @@
+{
+  "name": "solid-javascript-examples",
+  "version": "1.0.0",
+  "description": "Solid JavaScript Examples",
+  "author": "André Dorneles <andre@imperiosoft.com.br>",
+  "dependencies": {
+    "eslint": "^8.57.0",
+    "prettier": "^3.2.5"
+  }
+}
